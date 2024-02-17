@@ -15,7 +15,7 @@ This project contains a React component for a signup form with client-side valid
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-signup-form.git
+   git clone https://github.com/hardyal-singh/rooba.finance.git
 
 
 2. Install dependencies:
